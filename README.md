@@ -1,5 +1,5 @@
 # Photo Viewer  
-> This plugin is intended to download a picture from an URL into a Photo library..
+> This plugin is intended to download a picture from an URL into IOS Photo library..
 
 ## How to Install
 
