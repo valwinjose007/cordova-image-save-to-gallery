@@ -1,0 +1,61 @@
+{
+  "_from": "com-cordova-image-save-to-gallery@^1.0.0",
+  "_id": "com-cordova-image-save-to-gallery@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-VH7Yo8O2qe1ZR7hiZqtiAwsv2FLztEXsA+ksXVIBGEDiY+o5IxOrMb+9g+nGCVMxfxmID3T8GZxpGxAAZXTv2A==",
+  "_location": "/com-cordova-image-save-to-gallery",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "com-cordova-image-save-to-gallery@^1.0.0",
+    "name": "valwinjose007/CordovaImageSaveToGallery",
+    "escapedName": "com-cordova-image-save-to-gallery",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/com-cordova-image-save-to-gallery/-/com-cordova-image-save-to-gallery-1.0.0.tgz",
+  "_shasum": "e8b2c749f031cedb32bef29dc8f9dcf49e55ccbc",
+  "_spec": "com-cordova-image-save-to-gallery@^1.0.0",
+  "_where": "",
+  "author": {
+    "name": "Alwin jose"
+  },
+  "bugs": {
+    "url": "https://github.com/valwinjose007/cordova-image-save-to-gallery/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com-cordova-image-save-to-gallery",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "This plugin is intended to download a picture from an URL into a Photo library.",
+  "devDependencies": {
+    "typescript": "3.2.2"
+  },
+  "homepage": "https://github.com/valwinjose007/cordova-image-save-to-gallery#readme",
+  "keywords": [
+    "cordova",
+    "cordova-image-save-to-gallery",
+    "CordovaImageSaveToGallery",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "com-cordova-image-save-to-gallery",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valwinjose007/cordova-image-save-to-gallery.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "version": "1.0.0"
+}
