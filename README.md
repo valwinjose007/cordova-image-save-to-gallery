@@ -20,6 +20,8 @@ cordova plugin add https://github.com/valwinjose007/cordova-image-save-to-galler
 #### Download an image
 
 ```
+declare var CordovaImageSaveToGallery: any;
+
 CordovaImageSaveToGallery.downloadFromUrl('https://picsum.photos/200/300',(res)=>{
     //download success
 },(err)=>{
